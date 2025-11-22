@@ -186,8 +186,8 @@ This project is for educational purposes. Feel free to use it for learning.
 
 ## Author
 
-Made by: [Your Name]  
-Contact: [Your Email]
+Made by: Aditya Mogha  
+Contact: adityamoghaa@gmail.com
 
 ---
 
@@ -202,4 +202,4 @@ If something doesn't work:
 
 ---
 
-**Last Updated:** November 2024
+**Last Updated:** November 2025
